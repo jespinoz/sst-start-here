@@ -1,15 +1,16 @@
 # Node.js pre-hackathon training @ SST
 
 ## Training outline
+Please click the links below to view slides associated with the topics:
 
 | Topic  | Time | Trainer |
 | ------------- | ------------- |------|
-| Koding setup  | 9:30 - 10:00  | Lita
-| Javascript primer  | 10:00 - 11:00  | Deepank |
-| Node.js primer | 11:00 - 12:00 | Quhan |
+| [Koding setup](http://www.slideshare.net/linovati/koding-setup)  | 9:30 - 10:00  | Lita
+| [Javascript primer](http://www.slideshare.net/deepankvora/javascript-sst)  | 10:00 - 11:00  | Deepank |
+| [Node.js primer](http://www.slideshare.net/quhan/nodejs-primer-48969602) | 11:00 - 12:00 | Quhan |
 | Lunch | 12:00 - 1:00 | |
-| Bluemix setup | 1:00 - 1:30 | Quhan |
-| Express web app development | 1:30 - 3:00 | Aeshan |
+| [Bluemix setup](http://www.slideshare.net/quhan/bluemix-setup) | 1:00 - 1:30 | Quhan |
+| [Express web app development](http://www.slideshare.net/AeshanWijetunge/sst-hackathon-express) | 1:30 - 3:00 | Aeshan |
 
 ## Note
 Due to restrictions on the SST WiFi network, only port 80 is available for access on your browser. This is especially important when attempting to run your web apps via Koding.
